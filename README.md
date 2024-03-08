@@ -27,9 +27,9 @@ body {
     <h2>  Índice</h2>
      <ol>
             
-     <li><a href="#Surgimento"> Surgimento </a></li>
-    <li><a href="#O que são Tags"> O que são Tags</a></li>
-    <li><a href="#Tipos de Tags"> Tipos de Tags </a></li>
+     <li><a href="#Surgimento"> Surgimento </a><
+    <li><a href="#O que são Tags"> O que são Tags</a>
+    <li><a href="#Tipos de Tags"> Tipos de Tags </a>
     </ol>
     <h2 id="Surgimento"> Surgimento</h2>
     <p> <i>O HTML</i> foi criado por <strong><mark>Tim Berners-Lee,</strong> como uma ferramenta que permitia acrescentar alguns elementos nos textos usados por ele e um grupo de pesquisadores, na publicação dos seus trabalhos em uma época em que a Internet ainda dava seus primeiros passos</P>
