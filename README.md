@@ -1,34 +1,4 @@
-<!DOCTYPE html>
-<head>
-<style>
-  
-body {
-  background-color: rgba(226, 230, 220, 0.932)
-  ;
-}
-</style>
-</head>
-<body>
-   
-</body>
-</html>
-<html>
-    <head>
-        <title> Pagina Principal</title>
-
-    </head>
-    <body>
-    
-     <h1 id="início"> Primeiros passos com HTML </h1>
-     <hr/>  
-    <h2>  Índice</h2>
-     <ol>
-            
-     <li><a href="#Surgimento"> Surgimento </a></li>
-    <li><a href="#O que são Tags"> O que são Tags</a></li>
-    <li><a href="#Tipos de Tags"> Tipos de Tags </a></li>
-    </ol>
-    <h2 id="Surgimento"> Surgimento</h2>
+<h2 id="Surgimento"> Surgimento</h2>
     <p> <i>O HTML</i> foi criado por <strong><mark>Tim Berners-Lee,</strong> como uma ferramenta que permitia acrescentar alguns elementos nos textos usados por ele e um grupo de pesquisadores, na publicação dos seus trabalhos em uma época em que a Internet ainda dava seus primeiros passos</P>
     <p>Como outras linguagens de marcação – o <U>HTML</U> não é a única – era possível dar distinções a determinados trechos de textos, como por exemplo, vincular ou linkar uma outra obra científica a qual a primeira fizesse referência e que também estivesse publicada, na medida em que os primeiros “sites” começavam a surgir.</p>   
 
