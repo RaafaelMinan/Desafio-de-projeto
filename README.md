@@ -1,12 +1,7 @@
-  <title> Pagina Principal</title>
 
-    </head>
-    <body>
-    
-     <h1 id="início"> Primeiros passos com HTML </h1>
-     <hr/>  
-    <h2>  Índice</h2>
-     <ol>
+
+<h2 id="ÍNDICE"> ÍNDICE</h2>
+   
 <li><a href="#Surgimento"> Surgimento </a></li>
     <li><a href="#O que são Tags"> O que são Tags</a></li>
     <li><a href="#Tipos de Tags"> Tipos de Tags </a></li>
