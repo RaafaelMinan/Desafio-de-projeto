@@ -3,17 +3,7 @@ Desafio de projeto sobre HTML.
 
 <html>
 <head>
-<style>
-  
-body {
-  background-color: rgba(226, 230, 220, 0.932)
-  ;
-}
-</style>
 </head>
-<body>
-   
-</body>
 </html>
 <html>
     <head>
