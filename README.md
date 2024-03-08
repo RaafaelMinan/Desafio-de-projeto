@@ -37,7 +37,8 @@ body {
 
 <h2 id="O que são Tags"> O que são Tags </h2>
 <ul> 
-    <li>Os elementos HTML ou também chamados de tags HTML, são utilizados para informar ao navegador que tipo de estrutura é essa que está sendo construída, podendo ser títulos, parágrafos, imagens, links, entre outros.Dessa forma, para que um documento seja interpretado pelo navegador, é necessário que o arquivo tenha a extensão .html e, a partir disso, poderá ser exibido por qualquer navegador web.</li> </ul>
+    <li>Os elementos HTML ou também chamados de tags HTML, são utilizados para informar ao navegador que tipo de estrutura é essa que está sendo construída, podendo ser títulos, parágrafos, imagens, links, entre outros.Dessa forma, para que um documento seja interpretado pelo navegador, é necessário que o arquivo tenha a extensão .html e, a partir disso, poderá ser exibido por qualquer navegador web.</li> 
+  
    <ul><li>As tags são formadas por uma estrutura própria, iniciam com o sinal “menor que”, em seguida vem o nome daquele elemento e por fim, o sinal “maior que”.Podem ser dispostas em tags que precisam de fechamento e tags que fecham sozinhas (self-closing).
 
     O fechamento de uma tag será definido com uma barra (/), sendo que no caso das tags de autofechamento, não há necessidade da presença desse caractere.</li></ul>
