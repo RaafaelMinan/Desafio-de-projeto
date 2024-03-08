@@ -1,3 +1,7 @@
+<li><a href="#Surgimento"> Surgimento </a></li>
+    <li><a href="#O que são Tags"> O que são Tags</a></li>
+    <li><a href="#Tipos de Tags"> Tipos de Tags </a></li>
+    </ol>
 <h2 id="Surgimento"> Surgimento</h2>
     <p> <i>O HTML</i> foi criado por <strong><mark>Tim Berners-Lee,</strong> como uma ferramenta que permitia acrescentar alguns elementos nos textos usados por ele e um grupo de pesquisadores, na publicação dos seus trabalhos em uma época em que a Internet ainda dava seus primeiros passos</P>
     <p>Como outras linguagens de marcação – o <U>HTML</U> não é a única – era possível dar distinções a determinados trechos de textos, como por exemplo, vincular ou linkar uma outra obra científica a qual a primeira fizesse referência e que também estivesse publicada, na medida em que os primeiros “sites” começavam a surgir.</p>   
